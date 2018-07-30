@@ -1,0 +1,28 @@
+用户模块
+    注册
+    登陆
+    退出
+
+# 登陆以后才能访问
+文章管理
+    发布文章
+    修改文章
+    删除文章
+
+
+表单
+    数据校验
+    表单错误信息
+
+
+分页说明：
+https://blog.csdn.net/ying847782627/article/details/51329245
+
+
+路由绑定机制
+{
+    'login' : login
+    'logout' : logout
+    'art_list' : art_list
+    'req' : fun1
+}

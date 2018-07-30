@@ -1,0 +1,40 @@
+{% extends 'home/index.html' %}
+
+{% block title %}
+    {{ article.Users.name }}的博客
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-12">
+        <h2>
+            <a href="{{ url_for('home.myblog',name=article.Users.name) }}" style="color: #151515">{{ article.Users.name }}的博客</a>
+        </h2>
+    </div>
+</div>
+    <hr>
+ <div class="col-md-8 col-md-offset-2" style="text-align: center">
+     <h2>{{ article.Article.title }}</h2>
+     <span>作者:{{ article.Users.name }}</span>&nbsp;&nbsp;&nbsp;&nbsp;
+     <span>分类:{{ article.Types.tname }}</span>&nbsp;&nbsp;&nbsp;&nbsp;
+     <span>发布时间:{{ article.Article.addtime }}</span>&nbsp;&nbsp;&nbsp;&nbsp;
+     <br>
+     <p>
+        所属标签:
+        {% for v in tag %}
+          <span>{{ v.Tags.tagname }}</span>
+        {% endfor %}
+     </p>
+     <hr>
+</div>
+<div class="col-md-8 col-md-offset-2">
+    <p>
+        {{ article.Article.context|safe }}
+    </p>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div style="border-top:1px solid rgba(147,147,147,0.7);width: 100%"></div>
+    </div>
+</div>
+{% endblock %}

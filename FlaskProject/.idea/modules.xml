@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FlaskProject.iml" filepath="$PROJECT_DIR$/.idea/FlaskProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flask_cms_blue/.idea/flask_cms_blue.iml" filepath="$PROJECT_DIR$/flask_cms_blue/.idea/flask_cms_blue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flask_cms_long/.idea/flask_cms_long.iml" filepath="$PROJECT_DIR$/flask_cms_long/.idea/flask_cms_long.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flask_cms_teacher_day2/.idea/flask_cms_teacher_day2.iml" filepath="$PROJECT_DIR$/flask_cms_teacher_day2/.idea/flask_cms_teacher_day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/three/.idea/three.iml" filepath="$PROJECT_DIR$/three/.idea/three.iml" />
+    </modules>
+  </component>
+</project>

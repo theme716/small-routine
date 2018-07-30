@@ -1,0 +1,26 @@
+{% extends 'home/public/art_base.html' %}
+
+{% block content %}
+    <div style="text-align: center">
+        <h3>{{ article.title }}</h3>
+        <p>
+            <span>添加时间：{{ article.add_time }}</span>&nbsp;&nbsp;&nbsp;&nbsp;
+            <span>类别：{{ type }}</span>
+        </p>
+        {% if article.logo %}
+            <div><img src="/static/uploads/{{ article.logo }}" alt=""></div>
+        {% else %}
+            <div><img src="/static/uploads/default.jpeg" alt=""></div>
+        {% endif %}
+    </div>
+    <hr>
+    <p>
+        {{ article.content|safe }}
+    </p>
+{% endblock %}
+
+{% block js %}
+    <script>
+        $('#m1').removeClass('active')
+    </script>
+{% endblock %}

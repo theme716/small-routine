@@ -1,0 +1,58 @@
+{% extends 'art_base.html' %}
+
+{% block content %}
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>标题</th>
+                <th>分类</th>
+                <th>封面</th>
+                <th>作者</th>
+                <th>发布时间</th>
+                <th>操作</th>
+            </tr>
+            {% for v in range(10)%}
+            <tr>
+                <td>今天去洗脚</td>
+                <td>科技</td>
+                <td><img data-src="holder.js/75x40" alt=""></td>
+                <td>穿越天堂的手</td>
+                <td>2018-08-09 00:00:00</td>
+                <td>
+                    <button class="btn btn-sm btn-outline-success">编辑</button>
+                    <button class="btn btn-sm btn-outline-danger">删除</button>
+                </td>
+            </tr>
+            {% endfor %}
+        </thead>
+    </table>
+    <nav class="">
+        <ul class="pagination" style="position: relative;left: 30%">
+            <li class="page-item"><a class="page-link" href="">上一页</a></li>
+            <li class="page-item"><a class="page-link" href="">1</a></li>
+            <li class="page-item active"><a class="page-link" href="">2</a></li>
+            <li class="page-item"><a class="page-link" href="">3</a></li>
+            <li class="page-item"><a class="page-link" href="">4</a></li>
+            <li class="page-item"><a class="page-link" href="">5</a></li>
+
+            <li class="page-item"><a class="page-link" href="">下一页</a></li>
+        </ul>
+    </nav>
+{% endblock %}
+
+{% block css %}
+    <style type="text/css">
+        .table td,
+        .table th{
+            vertical-align: middle;
+        }
+    </style>
+{% endblock %}
+
+{% block js %}
+    <script>
+        $(document).ready(function(){
+            $("#m2").addClass('active');
+        })
+    </script>
+{% endblock %}

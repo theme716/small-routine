@@ -1,0 +1,57 @@
+{% extends 'home/index.html' %}
+{% block title %}
+    {{ uinfo.name }}的博文列表
+{% endblock %}
+
+
+{% block content %}
+    <div class="row">
+        <div class="col-md-12">
+          <center>
+            <h2>
+                {{ uinfo.name }}的博客
+                <a href="{{ url_for('home.write') }}">发布新博文</a>
+            </h2>
+          </center>
+        </div>
+      </div>
+
+    <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <table class="table table-striped">
+        <tr>
+            <th>ID</th>
+          <th>标题</th>
+          <th>发布时间</th>
+          <th>分类</th>
+          <th>操作</th>
+        </tr>
+        {% for foo in article_data %}
+
+            <tr>
+                <th>
+                    {{ foo.Article.id }}
+                </th>
+                <th>
+                    <a href="{{ url_for('home.articleinfo',name=uinfo.name,aid=foo.Article.id) }}">{{ foo.Article.title }}</a>
+                </th>
+                <th>
+                    {{ foo.Article.addtime }}
+                </th>
+                <th>
+                    {{ foo.Types.tname }}
+                </th>
+                <th>
+                {% if session['VipUser'] %}
+                    {% if session['VipUser']['uid'] == uinfo.id %}
+                    <a href="">删除</a>
+                    <a href="">修改</a>
+                    {% endif %}
+                {% endif %}
+                </th>
+            </tr>
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+{% endblock %}

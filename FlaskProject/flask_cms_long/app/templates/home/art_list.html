@@ -1,0 +1,46 @@
+{% extends 'home/public/art_base.html' %}
+
+{% block name %}
+    {{ session['account'] }}的博客
+{% endblock %}
+
+{% block content %}
+    <div  style="border: 1px solid black;"></div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>标题</th>
+                <th>分类</th>
+                <th>封面</th>
+                <th>发布时间</th>
+                <th>操作</th>
+            </tr>
+            {% for article in articles %}
+                <tr>
+                    <td><a href="{{ url_for('home.art_info',id=article.id) }}" style="color: #212529">{{ article.title }}</a></td>
+                    <td>{{ article.category }}</td>
+                    {% if  article.logo %}
+                    <td><img src="/static/uploads/{{ article.logo }}" alt="" width="75"></td>
+                {% else %}
+                    <td><img src="/static/uploads/default.jpeg" alt="" width="75"></td>
+                {% endif %}
+                    <td>{{ article.add_time }}</td>
+                    <td>
+                        <a href="{{ url_for('home.art_edit',id=article.id) }}"  class="btn btn-sm btn-outline-success">编辑</a>
+                        <a href="{{ url_for('home.art_del',id=article.id) }}"  class="btn btn-sm btn-outline-success">删除</a>
+                    </td>
+                </tr>
+            {% endfor %}
+        </thead>
+    </table>
+{% endblock %}
+
+{% block css %}
+    <style>
+        .table td,
+        .table th{
+            vertical-align: middle;
+            padding: 0.5rem;
+        }
+    </style>
+{% endblock %}

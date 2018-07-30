@@ -1,0 +1,19 @@
+/*公共的样式*/
+.form-group .form-control{
+	height: 50px;
+}
+
+/*针对移动页面样式 当浏览器窗口小于=960时*/
+@media(max-width:960px){
+
+	
+		
+}
+
+/*针对pc页面样式 当浏览器窗口大于等于960时*/
+@media(min-width:960px){
+	.form-group .form-control{
+		height: 100px;
+	}
+
+}

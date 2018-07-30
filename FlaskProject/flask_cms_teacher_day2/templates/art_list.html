@@ -1,0 +1,52 @@
+{% extends 'art_base.html' %}
+{% import 'page.html' as pg %}
+{% block content %}
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>标题</th>
+                <th>分类</th>
+                <th>封面</th>
+                <th>作者</th>
+                <th>发布时间</th>
+                <th>操作</th>
+            </tr>
+            {% for article in pagination.items %}
+            <tr>
+                <td>{{ article.title }}</td>
+                <td>{{ category[article.category - 1][1] }}</td>
+                {% if  article.logo %}
+                    <td><img src="/static/uploads/{{ article.logo }}" alt="" width="75" height="40"></td>
+                {% else %}
+                    <td><img src="/static/uploads/default.jpg" alt="" width="75" height="40"></td>
+                {% endif %}
+                <td>{{ article.user.account }}</td>
+                <td>{{ article.add_time }}</td>
+                <td>
+                    <a href="{{ url_for('art_edit',id=article.id) }}" class="btn btn-sm btn-outline-success">编辑</a>
+                    <a href="{{ url_for('art_del',id=article.id) }}" class="btn btn-sm btn-outline-danger">删除</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </thead>
+    </table>
+    <!--分页-->
+    {{ pg.page(pagination,'art_list') }}
+{% endblock %}
+
+{% block css %}
+    <style type="text/css">
+        .table td,
+        .table th{
+            vertical-align: middle;
+        }
+    </style>
+{% endblock %}
+
+{% block js %}
+    <script>
+        $(document).ready(function(){
+            $("#m2").addClass('active');
+        })
+    </script>
+{% endblock %}
