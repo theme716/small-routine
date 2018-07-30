@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8843053f-dd30-405e-8e1c-400fe7dd75e1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/insect$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1530622858876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/dbmanage" />
+    <SUITE FILE_PATH="coverage/insect$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1530505930640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_6/tt" />
+    <SUITE FILE_PATH="coverage/insect$tencent.coverage" NAME="tencent Coverage Results" MODIFIED="1530621609658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/dbmanage" />
+    <SUITE FILE_PATH="coverage/insect$1_jsonpath_demo.coverage" NAME="1.jsonpath_demo Coverage Results" MODIFIED="1529337485514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.five_day" />
+    <SUITE FILE_PATH="coverage/insect$6_58fang.coverage" NAME="6.58fang Coverage Results" MODIFIED="1529032503048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five_day" />
+    <SUITE FILE_PATH="coverage/insect$4_urllib_post.coverage" NAME="4.urllib_post Coverage Results" MODIFIED="1528465399747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day" />
+    <SUITE FILE_PATH="coverage/insect$2_mutilprocess.coverage" NAME="2.mutilprocess Coverage Results" MODIFIED="1529414452200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.seven_day" />
+    <SUITE FILE_PATH="coverage/insect$p.coverage" NAME="p Coverage Results" MODIFIED="1530624432358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/dbmanage" />
+    <SUITE FILE_PATH="coverage/insect$7_teacher.coverage" NAME="7.teacher Coverage Results" MODIFIED="1529508012235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.eight_day" />
+    <SUITE FILE_PATH="coverage/insect$1_lagou.coverage" NAME="1.lagou Coverage Results" MODIFIED="1529845804799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.ten_day" />
+    <SUITE FILE_PATH="coverage/insect$3__https_ssl.coverage" NAME="3. https 不验证ssl证书 Coverage Results" MODIFIED="1528726718338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_day" />
+    <SUITE FILE_PATH="coverage/insect$4__.coverage" NAME="4. 微信轰炸机 Coverage Results" MODIFIED="1528829803818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_day" />
+    <SUITE FILE_PATH="coverage/insect$itxdl.coverage" NAME="itxdl Coverage Results" MODIFIED="1528965825356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five_day" />
+    <SUITE FILE_PATH="coverage/insect$8_.coverage" NAME="8.查看线程数量 Coverage Results" MODIFIED="1529688280900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.eight_day" />
+    <SUITE FILE_PATH="coverage/insect$text.coverage" NAME="text Coverage Results" MODIFIED="1530116967893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_3/pro" />
+    <SUITE FILE_PATH="coverage/insect$13_selenium_js.coverage" NAME="13.selenium_执行js Coverage Results" MODIFIED="1529600353159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$1_.coverage" NAME="1.生成器 Coverage Results" MODIFIED="1529550022247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$3.coverage" NAME="3 Coverage Results" MODIFIED="1528975959747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five_day" />
+    <SUITE FILE_PATH="coverage/insect$xdl.coverage" NAME="xdl Coverage Results" MODIFIED="1529888952582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_1/scrapy_1_test/scrapy_1_test/spiders" />
+    <SUITE FILE_PATH="coverage/insect$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1530553624878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/hello" />
+    <SUITE FILE_PATH="coverage/insect$8_thread.coverage" NAME="8.thread Coverage Results" MODIFIED="1529419739265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.seven_day" />
+    <SUITE FILE_PATH="coverage/insect$1_bs4_demo.coverage" NAME="1.bs4_demo Coverage Results" MODIFIED="1529333596394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/six_day" />
+    <SUITE FILE_PATH="coverage/insect$11_selenium__.coverage" NAME="11.selenium_动作链_对元素的鼠标键盘操作 Coverage Results" MODIFIED="1529594059177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$5_l__1_.coverage" NAME="5.爬取兄弟连学员作品页面l (1) Coverage Results" MODIFIED="1529424493265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.five_day" />
+    <SUITE FILE_PATH="coverage/insect$2__jsonpath.coverage" NAME="2.拉钩网_练习使用jsonpath Coverage Results" MODIFIED="1529339126017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.five_day" />
+    <SUITE FILE_PATH="coverage/insect$itxdl__1_.coverage" NAME="itxdl (1) Coverage Results" MODIFIED="1528949458863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five_day" />
+    <SUITE FILE_PATH="coverage/insect$15_selenium_cookie.coverage" NAME="15.selenium_添加删除cookie Coverage Results" MODIFIED="1529597761010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1529400468091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.six_day" />
+    <SUITE FILE_PATH="coverage/insect$check_proxy.coverage" NAME="check_proxy Coverage Results" MODIFIED="1528892172903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/ck_proxy" />
+    <SUITE FILE_PATH="coverage/insect$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1529929484370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_1/pro/pro" />
+    <SUITE FILE_PATH="coverage/insect$6_gevent.coverage" NAME="6.gevent协程抓取腾讯招聘网站 Coverage Results" MODIFIED="1529587955118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$6_PHP.coverage" NAME="6.兄弟连PHP视频 Coverage Results" MODIFIED="1529371126389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.six_day" />
+    <SUITE FILE_PATH="coverage/insect$6_pool.coverage" NAME="6.pool Coverage Results" MODIFIED="1529419226302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.seven_day" />
+    <SUITE FILE_PATH="coverage/insect$itxdl_no.coverage" NAME="itxdl_no Coverage Results" MODIFIED="1528975804161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five_day" />
+    <SUITE FILE_PATH="coverage/insect$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1530520781262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_6/almax" />
+    <SUITE FILE_PATH="coverage/insect$4_xpath_.coverage" NAME="4.xpath_加载字符串 Coverage Results" MODIFIED="1529426757780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.five_day" />
+    <SUITE FILE_PATH="coverage/insect$8_selenium_chrome.coverage" NAME="8.selenium_chrome Coverage Results" MODIFIED="1529589863196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$main.coverage" NAME="main Coverage Results" MODIFIED="1530670635774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin" />
+    <SUITE FILE_PATH="coverage/insect$5_.coverage" NAME="5.图灵机器人练习 Coverage Results" MODIFIED="1528858672662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_day" />
+    <SUITE FILE_PATH="coverage/insect$6_request_cookie.coverage" NAME="6.request.cookie Coverage Results" MODIFIED="1528862299171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day" />
+    <SUITE FILE_PATH="coverage/insect$random_proxy.coverage" NAME="random_proxy Coverage Results" MODIFIED="1529001505213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five_day" />
+    <SUITE FILE_PATH="coverage/insect$18_.coverage" NAME="18.爬取斗鱼直播 Coverage Results" MODIFIED="1529603602477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$jiandan.coverage" NAME="jiandan Coverage Results" MODIFIED="1530117414541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiandan" />
+    <SUITE FILE_PATH="coverage/insect$19_test.coverage" NAME="19.test Coverage Results" MODIFIED="1529599371491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$models.coverage" NAME="models Coverage Results" MODIFIED="1528912372728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/flask_reptile" />
+    <SUITE FILE_PATH="coverage/insect$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1530193625481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_4/pro/pro/spiders" />
+    <SUITE FILE_PATH="coverage/insect$urllib_xici.coverage" NAME="urllib_xici Coverage Results" MODIFIED="1528442063653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/insect$2_.coverage" NAME="2.兄弟连老师 Coverage Results" MODIFIED="1529343009686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.six_day" />
+    <SUITE FILE_PATH="coverage/insect$xici__1_.coverage" NAME="xici (1) Coverage Results" MODIFIED="1529919498627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_1/pro/pro/spiders" />
+    <SUITE FILE_PATH="coverage/insect$_.coverage" NAME="糗百_两个线程队列 Coverage Results" MODIFIED="1530446640492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/insect$weibo_form.coverage" NAME="weibo_form Coverage Results" MODIFIED="1528485483493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day/weibo" />
+    <SUITE FILE_PATH="coverage/insect$6_renren_two.coverage" NAME="6.renren_two Coverage Results" MODIFIED="1528476032626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day" />
+    <SUITE FILE_PATH="coverage/insect$douban.coverage" NAME="douban Coverage Results" MODIFIED="1528909533927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/ck_douban" />
+    <SUITE FILE_PATH="coverage/insect$9_selenium_.coverage" NAME="9.selenium_网页查找元素练习 Coverage Results" MODIFIED="1529592048475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$xici.coverage" NAME="xici Coverage Results" MODIFIED="1529919239755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_1" />
+    <SUITE FILE_PATH="coverage/insect$3_urllib_baidu.coverage" NAME="3.urllib_baidu Coverage Results" MODIFIED="1528463258070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day" />
+    <SUITE FILE_PATH="coverage/insect$7_selenium_.coverage" NAME="7.selenium_基本使用 Coverage Results" MODIFIED="1529589120540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$5_tencent_multiprocess.coverage" NAME="5.tencent_multiprocess Coverage Results" MODIFIED="1529419191721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.seven_day" />
+    <SUITE FILE_PATH="coverage/insect$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1530590439895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin" />
+    <SUITE FILE_PATH="coverage/insect$6__66ip.coverage" NAME="6. 66ip Coverage Results" MODIFIED="1528807093628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_day" />
+    <SUITE FILE_PATH="coverage/insect$liepin.coverage" NAME="liepin Coverage Results" MODIFIED="1530624211867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/dbmanage" />
+    <SUITE FILE_PATH="coverage/insect$7_thread.coverage" NAME="7.thread Coverage Results" MODIFIED="1529419560276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.seven_day" />
+    <SUITE FILE_PATH="coverage/insect$1__meizipic.coverage" NAME="1. meizipic Coverage Results" MODIFIED="1528821425814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_day" />
+    <SUITE FILE_PATH="coverage/insect$a.coverage" NAME="a Coverage Results" MODIFIED="1530194173531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_4" />
+    <SUITE FILE_PATH="coverage/insect$baihe.coverage" NAME="baihe Coverage Results" MODIFIED="1530010558627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_2/pro/pro/spiders" />
+    <SUITE FILE_PATH="coverage/insect$1.coverage" NAME="1 Coverage Results" MODIFIED="1528704430691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_day" />
+    <SUITE FILE_PATH="coverage/insect$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1528484259046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day/weibo" />
+    <SUITE FILE_PATH="coverage/insect$rep_xici.coverage" NAME="rep_xici Coverage Results" MODIFIED="1528891163963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/ck_proxy" />
+    <SUITE FILE_PATH="coverage/insect$5_gevent_monkey.coverage" NAME="5.gevent_monkey Coverage Results" MODIFIED="1529586031904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$4_gevent.coverage" NAME="4.gevent Coverage Results" MODIFIED="1529584242091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$3_selenium_manhua.coverage" NAME="3.selenium_manhua Coverage Results" MODIFIED="1529927282281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.ten_day" />
+    <SUITE FILE_PATH="coverage/insect$rep_66.coverage" NAME="rep_66 Coverage Results" MODIFIED="1528888222281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/ck_proxy" />
+    <SUITE FILE_PATH="coverage/insect$t.coverage" NAME="t Coverage Results" MODIFIED="1530676501731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kuaiyinshi" />
+    <SUITE FILE_PATH="coverage/insect$1__json_.coverage" NAME="1.爬雪球和豆瓣电影(json) Coverage Results" MODIFIED="1528726232299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_day" />
+    <SUITE FILE_PATH="coverage/insect$5__requests_demo.coverage" NAME="5. requests_demo Coverage Results" MODIFIED="1528859221590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day" />
+    <SUITE FILE_PATH="coverage/insect$17_.coverage" NAME="17.自动等到加载完成进行下一步操作 Coverage Results" MODIFIED="1529598451636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$meilishuo.coverage" NAME="meilishuo Coverage Results" MODIFIED="1528902038039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/ck_meilishuo" />
+    <SUITE FILE_PATH="coverage/insect$5_l.coverage" NAME="5.爬取兄弟连学员作品页面l Coverage Results" MODIFIED="1529424796050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/8.爬虫/xpath" />
+    <SUITE FILE_PATH="coverage/insect$renren.coverage" NAME="renren Coverage Results" MODIFIED="1530347885251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_5/pro/pro/spiders" />
+    <SUITE FILE_PATH="coverage/insect$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1528714894023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day/贴吧" />
+    <SUITE FILE_PATH="coverage/insect$pm.coverage" NAME="pm Coverage Results" MODIFIED="1530339039804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_4" />
+    <SUITE FILE_PATH="coverage/insect$7___.coverage" NAME="7.爬取糗百(采集数据和解析数据两个线程池) Coverage Results" MODIFIED="1529549962406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.eight_day" />
+    <SUITE FILE_PATH="coverage/insect$5_renren_one.coverage" NAME="5.renren_one Coverage Results" MODIFIED="1528467256497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day" />
+    <SUITE FILE_PATH="coverage/insect$3_xpath_demo.coverage" NAME="3.xpath_demo Coverage Results" MODIFIED="1529342641256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.five_day" />
+    <SUITE FILE_PATH="coverage/insect$get_cookie_test.coverage" NAME="get_cookie_test Coverage Results" MODIFIED="1530450696562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/insect$weibo_form_mobile.coverage" NAME="weibo_form_mobile Coverage Results" MODIFIED="1528488894197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day/weibo" />
+    <SUITE FILE_PATH="coverage/insect$3_multiprocess_yes.coverage" NAME="3.multiprocess_yes Coverage Results" MODIFIED="1529418187058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.seven_day" />
+    <SUITE FILE_PATH="coverage/insect$2_yield_.coverage" NAME="2.yield_方法实现基本的协程 Coverage Results" MODIFIED="1529581334640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$teacher.coverage" NAME="teacher Coverage Results" MODIFIED="1529851786237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.ten_day" />
+    <SUITE FILE_PATH="coverage/insect$c_text.coverage" NAME="c_text Coverage Results" MODIFIED="1529978939341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_2/pro/pro" />
+    <SUITE FILE_PATH="coverage/insect$b.coverage" NAME="b Coverage Results" MODIFIED="1529042356887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/six_day" />
+    <SUITE FILE_PATH="coverage/insect$3_greenlet.coverage" NAME="3.greenlet Coverage Results" MODIFIED="1529582819041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$2_selenium_baidu_pic.coverage" NAME="2.selenium_baidu_pic Coverage Results" MODIFIED="1529852755174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.ten_day" />
+    <SUITE FILE_PATH="coverage/insect$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1530670486834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/hello" />
+    <SUITE FILE_PATH="coverage/insect$7_renren_three.coverage" NAME="7.renren_three Coverage Results" MODIFIED="1528940638348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day" />
+    <SUITE FILE_PATH="coverage/insect$18_2.coverage" NAME="18.2爬取斗鱼直播 Coverage Results" MODIFIED="1529605144693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$12_selenium_.coverage" NAME="12.selenium_获取元素属性 Coverage Results" MODIFIED="1529594324595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$flask_reptile.coverage" NAME="flask_reptile Coverage Results" MODIFIED="1528913948276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/insect$urllib_demo.coverage" NAME="urllib_demo Coverage Results" MODIFIED="1529430474997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/insect$10_selenium_.coverage" NAME="10.selenium_框架切换 Coverage Results" MODIFIED="1529593031133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$6_.coverage" NAME="6.多线程爬取腾讯招聘网站 Coverage Results" MODIFIED="1529496598630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.eight_day" />
+    <SUITE FILE_PATH="coverage/insect$14_selenium_.coverage" NAME="14.selenium_前进后退 Coverage Results" MODIFIED="1529594978361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$16_selenium_.coverage" NAME="16.selenium_切换标签 Coverage Results" MODIFIED="1529597975530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$5__.coverage" NAME="5. 兄弟连就业喜报 Coverage Results" MODIFIED="1529034708719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/six_day" />
+    <SUITE FILE_PATH="coverage/insect$zhilianzhaopin.coverage" NAME="zhilianzhaopin Coverage Results" MODIFIED="1530625255831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyProject/dbmanage" />
+    <SUITE FILE_PATH="coverage/insect$test.coverage" NAME="test Coverage Results" MODIFIED="1530809683501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/insect$3_.coverage" NAME="3.斐波那契数列 Coverage Results" MODIFIED="1529580180885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.nine_day" />
+    <SUITE FILE_PATH="coverage/insect$tieba__1_.coverage" NAME="tieba (1) Coverage Results" MODIFIED="1528714798597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one_day/贴吧" />
+    <SUITE FILE_PATH="coverage/insect$sina_new.coverage" NAME="sina_new Coverage Results" MODIFIED="1528911091560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/news" />
+    <SUITE FILE_PATH="coverage/insect$7_tencent.coverage" NAME="7.tencent Coverage Results" MODIFIED="1529406706867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.six_day" />
+    <SUITE FILE_PATH="coverage/insect$.coverage" NAME="爬取代理并存入数据库 Coverage Results" MODIFIED="1528884428096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four_day/ck_proxy" />
+    <SUITE FILE_PATH="coverage/insect$6_58.coverage" NAME="6.爬取58同城租房信息 Coverage Results" MODIFIED="1529427451069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/8.爬虫/xpath" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="insect" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abot</find>
+      <find>atob</find>
+      <find>ip</find>
+      <find>ip地址查询</find>
+      <find>本机ip</find>
+      <find>正常</find>
+      <find>陈凯</find>
+      <find>tit</find>
+      <find>(.+)+(.+)</find>
+      <find>16</find>
+      <find>cookie</find>
+      <find>(.+): (.+)</find>
+      <find>300</find>
+      <find>download</find>
+      <find>log</find>
+      <find>new-compintro</find>
+      <find>(.+) = (.+)</find>
+      <find>positionURL</find>
+      <find>https://jobs.zhaopin.com/120131918252148.htm</find>
+      <find>IndexError</find>
+      <find>工作地址</find>
+      <find>3</find>
+      <find>(302)</find>
+      <find>32</find>
+      <find>\xe4</find>
+      <find>ages</find>
+      <find>tags</find>
+      <find>(.+)</find>
+      <find>\n</find>
+      <find>CONCURRENT_REQUESTS_PER_DOMAIN</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.urls</replace>
+      <replace>self.start</replace>
+      <replace>self.end</replace>
+      <replace>self.tieba_url</replace>
+      <replace>self.url_list</replace>
+      <replace>urls</replace>
+      <replace>start</replace>
+      <replace>end</replace>
+      <replace>tieba_url</replace>
+      <replace>self.tieba_name</replace>
+      <replace>tieba_name</replace>
+      <replace>&quot;$1&quot;:&quot;$2&quot;</replace>
+      <replace>$1:$2,</replace>
+      <replace>'</replace>
+      <replace>66ip</replace>
+      <replace>proxy_list</replace>
+      <replace>&quot;</replace>
+      <replace>scrapy</replace>
+      <replace>$1</replace>
+      <replace>friend_list_url</replace>
+      <replace>\n</replace>
+      <replace>$1 = friend['$1']</replace>
+      <replace>$1 = scrapy.Field()</replace>
+      <replace>item['$1'] = $1</replace>
+      <replace>&quot;$1&quot;:&quot;$2&quot;,</replace>
+      <replace>'$2':$2,</replace>
+      <replace>'$1':$1,</replace>
+      <replace>item[&quot;$1&quot;]</replace>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scrapy_6/pro/pro/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/pro/main.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/pro/pro/spiders/tencent.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/day20/main.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/tt/tt/items.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/tt/tt/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/tt/main.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/tt/tt/spiders/tencent.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/day/day20/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/day/day20/spiders/baidu.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/almax/almax/spiders/tencent.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/almax/almax/spiders/t" />
+        <option value="$PROJECT_DIR$/scrapy_6/almax/almax/mymiddlewares.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/dbmanage/readme.md" />
+        <option value="$PROJECT_DIR$/scrapy_6/almax/main.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/almax/almax/settings.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/hello/hello/mymiddlewares.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/hello/hello/settings.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/hello/main.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/T" />
+        <option value="$PROJECT_DIR$/scrapy_5/pro/pro/spiders/lagou.py" />
+        <option value="$PROJECT_DIR$/scrapy_6/almax/almax/spiders/lagou.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/zhilianzhaopin/settings.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/main.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/a.html" />
+        <option value="$PROJECT_DIR$/ScrapyProject/bosszhipin/main.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/bosszhipin/bosszhipin/settings.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/bosszhipin/bosszhipin/mymiddlewares.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/bosszhipin/bosszhipin/spiders/boss.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/dbmanage/tencent.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/dbmanage/lagou.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/dbmanage/liepin.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/dbmanage/t" />
+        <option value="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/zhilianzhaopin/spiders/zhilian.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/dbmanage/zhilianzhaopin.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/dbmanage/p.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/hello/hello/spiders/liepin.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/web/__init__.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/web/urls.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/show/urls.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/static/bootstrap-3.3.7-dist/js/jquery_1.12.4.min.js" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/web/settings.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/show/models.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/show/views.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/show/templatetags/pages.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/show/web/templates/index.html" />
+        <option value="$PROJECT_DIR$/ScrapyProject/hello/hello/spiders/t" />
+        <option value="$PROJECT_DIR$/ScrapyProject/readme.md" />
+        <option value="$PROJECT_DIR$/kuaiyinshi/t.py" />
+        <option value="$PROJECT_DIR$/ScrapyProject/almax/almax/settings.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="226" />
+    <option name="y" value="50" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="61db50fb:ScratchProjectViewPane$MyPsiNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="insect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insect" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/3Django思维导图/project/pyone" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\insect\ScrapyProject\bosszhipin\bosszhipin" />
+      <recent name="E:\Project\insect\ScrapyProject\hello\hello\spiders" />
+      <recent name="E:\Project\insect\scrapy_6\pro" />
+      <recent name="E:\Project\insect\scrapy_6" />
+      <recent name="E:\Project\insect\scrapy_6\pro\pro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\insect\ScrapyProject\show\web\show" />
+      <recent name="E:\Project\insect\ScrapyProject\bosszhipin" />
+      <recent name="E:\Project\insect\ScrapyProject\zhilianzhaopin\zhilianzhaopin" />
+      <recent name="E:\Project\insect\scrapy_5\pro\pro\spiders" />
+      <recent name="E:\Project\insect\9.nine_day" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyProject/hello" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="insect" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyProject/hello/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="insect" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kuaiyinshi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="insect" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kuaiyinshi/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="insect" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="zhilianzhaopin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyProject/dbmanage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="insect" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyProject/dbmanage/zhilianzhaopin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.zhilianzhaopin" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.t" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.t" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.zhilianzhaopin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ck-pc\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8843053f-dd30-405e-8e1c-400fe7dd75e1" name="Default" comment="" />
+      <created>1528439948875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528439948875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="1" y="31" width="681" height="706" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.34789392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1" y="31" width="681" height="706" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32605305" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="443" y="352" width="681" height="706" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18594436" sideWeight="0.48673946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19838946" sideWeight="0.51326054" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3978159" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="0" y="0" width="124" height="545" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32137287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scrapy_5/pro/pro/spiders/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="65" column="121" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/8.爬虫/jsonpath/1.jsonpath_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="58" column="51" lean-forward="false" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/hello/hello/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="128" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/zhilianzhaopin/mymiddlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/zhilianzhaopin/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="72" column="25" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/a.html" />
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/bosszhipin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/bosszhipin/bosszhipin/mymiddlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/dbmanage/readme.md" />
+    <entry file="file://$USER_HOME$/Documents/v/reptile/Lib/site-packages/redis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/almax/almax/spiders/tencent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/v/reptile/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="89" column="20" lean-forward="true" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="301" column="4" lean-forward="false" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/dbmanage/t" />
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/dbmanage/p.py" />
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/dbmanage/zhilianzhaopin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/dbmanage/liepin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/dbmanage/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/dbmanage/tencent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="4" column="85" lean-forward="false" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/v/reptile/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="573" column="3" lean-forward="false" selection-start-line="573" selection-start-column="3" selection-end-line="573" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/v/reptile/Lib/site-packages/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="488" column="8" lean-forward="false" selection-start-line="488" selection-start-column="8" selection-end-line="488" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/web/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/static/bootstrap-3.3.7-dist/js/jquery_1.12.4.min.js" />
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/web/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/show/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/show/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/show/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/show/templatetags/pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/almax/almax/spiders/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/hello/hello/spiders/t" />
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/hello/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/zhilianzhaopin/zhilianzhaopin/spiders/zhilian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/hello/hello/spiders/liepin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/show/web/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="475">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuaiyinshi/t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/almax/almax/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/bosszhipin/bosszhipin/spiders/boss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyProject/bosszhipin/bosszhipin/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2167">
+          <caret line="94" column="31" lean-forward="false" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_4/pro/pro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="99" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_4/pro/pro/spiders/xici.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.three_day/4. 微信web包_itchat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/timeit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="101" column="47" lean-forward="false" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/10.ten_day/2.selenium_baidu_pic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.ten_day/3.selenium_manhua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.five_day/4.xpath_加载字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-984">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.eight_day/1.守护线程、主线程阻塞、线程名字、线程状态.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.one_day/6.renren_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

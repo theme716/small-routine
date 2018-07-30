@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FlaskProject/.idea/FlaskProject.iml" filepath="$PROJECT_DIR$/../FlaskProject/.idea/FlaskProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.four_day/flask_reptile/.idea/flask_reptile.iml" filepath="$PROJECT_DIR$/4.four_day/flask_reptile/.idea/flask_reptile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/insect.iml" filepath="$PROJECT_DIR$/.idea/insect.iml" />
+    </modules>
+  </component>
+</project>
